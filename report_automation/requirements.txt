@@ -1,0 +1,4 @@
+requests
+numpy
+pandas
+google-api-python-client
